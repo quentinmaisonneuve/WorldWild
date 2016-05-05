@@ -7,7 +7,7 @@ public class Test
     {
         Individu i = new Individu(15,18, 100,100,70,"Gérard","Dupont",Sexe.FEMME);
 
-        i.setAge(99);//455
+        i.setAge(99);//Benjamin
         System.out.println(i.getBarreVieMax());
     }
 }
